@@ -8,3 +8,18 @@ module.exports = {
 		await interaction.reply('Pong!');
 	},
 };
+
+// module.exports = {
+
+// 	data: {
+// 		name: "ping",
+// 		description: "replies with pong"
+// 	},
+
+// 	async execute(message){
+
+// 		await message.reply('Pong!');
+
+// 	}
+
+// }

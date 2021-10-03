@@ -2,7 +2,7 @@ How to run the bot:
 1. First Download or Clone the repo.
 2. Run `npm install` to install all the modules [ Needs Testing ].
 
-After doing all that , create a file called `.env` and add the following things:
+After doing all that , create a file called `config.json` and add the following things:
 ```
 {
     "clientId": "",
